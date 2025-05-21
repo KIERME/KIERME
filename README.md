@@ -2,7 +2,7 @@
 
 <h3 align="center">👨‍💻 Meus projetos estão disponíveis em https://github.com/KIERME</h3>
 
-<h3 align="center">📫 Meu contato: **contatokierme@gmail.com**</h3>
+<h3 align="center">📫 Meu contato: contatokierme@gmail.com</h3>
 
 <h3 align="center">Me chame se quiser conversar sobre projetos</h3>
 <p align="center">
