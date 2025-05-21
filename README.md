@@ -1,8 +1,8 @@
 <h3 align="center">Desenvolvedor front-end estudando React para aplicações em TypeScript</h3>
 
-- 👨‍💻 Meus projetos estão disponíveis em [https://github.com/KIERME](https://github.com/KIERME)
+<h3 align="center">👨‍💻 Meus projetos estão disponíveis em [https://github.com/KIERME](https://github.com/KIERME)</h3>
 
-- 📫 Meu contato: **contatokierme@gmail.com**
+<h3 align="center">📫 Meu contato: **contatokierme@gmail.com**</h3>
 
 <h3 align="left">Me chame se quiser conversar sobre projetos</h3>
 <p align="left">
