@@ -6,7 +6,7 @@
 
 <h3 align="center">Me chame se quiser conversar sobre projetos</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gabriel kierme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel kierme" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-kierme-7b119025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel kierme" height="30" width="40" /></a>
 <a href="https://instagram.com/k1erme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k1erme" height="30" width="40" /></a>
 </p>
 
